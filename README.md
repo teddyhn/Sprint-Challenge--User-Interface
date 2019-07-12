@@ -38,13 +38,19 @@ Marking up different elements of a web page in an easy to read manner.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-display: block elements will start on a new line as opposed to display: inline elements which will add on to the same line. Block elements take up the whole width of their container whereas inline elements
+display: block elements will start on a new line as opposed to display: inline elements which will add on to the same line. Block elements take up the whole width of their container whereas inline elements cannot have their height or width manipulated.
 
 3. What are the 4 areas of the box model?
 
+Content, padding, border, and margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+Git allows a team of developers to exercise version control and work on the same project concurrently, pushing features they work on while working on separate branches of the main project.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
