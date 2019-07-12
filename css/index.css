@@ -266,6 +266,59 @@ footer nav a {
     margin: 20px 0 40px 0;
 }
 
-@media only screen and (max-width: 800px) {
-    
+@media screen and (max-width: 800px) {
+
+    .container {
+        width: 100%
+    }
+
+    header {
+        width: 100%;
+    }
+
+    header img {
+        width: 20%
+        height: auto;
+        margin-left: 10px;
+    }
+
+    header nav {
+        width: 80%;
+    }
+
+    .sub-header-img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .middle-content .boxes {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+    }
+
+    .middle-content .boxes .box {
+        width: 100px;
+    }
+
+    .about-sub-header-img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .about-top-content {
+        padding: 0 30px 30px 30px;
+    }
+
+    .about-info-container {
+        width: 80%
+    }
+
+    .about-info-container p {
+        width: 370px;
+    }
+
+    .about-bottom-content {
+        padding: 0 30px;
+    }
 }
