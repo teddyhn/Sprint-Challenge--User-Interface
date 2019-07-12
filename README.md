@@ -34,7 +34,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Marking up different elements of a web page in an easy to read manner.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+display: block elements will start on a new line as opposed to display: inline elements which will add on to the same line. Block elements take up the whole width of their container whereas inline elements
 
 3. What are the 4 areas of the box model?
 
